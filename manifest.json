@@ -1,27 +1,9 @@
 {
-  "format": 2,
-  "name": "BenderHoardingBugMod",
-  "guid": "Trippy.BHBMod",
-  "version": "1.1.0.0",
-  "version_number": "1.0.0",
-  "website_url": "https://github.com/TrippyModz",
-  "description": "Bender Hoarding Bug Mod",
-  "author": "TrippyModz",
-  "harmony": {
-    "patchers": [
-      {
-        "assembly": "BenderHoardingBugMod",
-        "type": "BenderHoardingBugBase",
-        "methods": [
-          {
-            "type": "Method",
-            "name": "Awake"
-          }
-        ]
-      }
-    ]
-  },
+  "name": "Trippy.BHBMod",
+  "version_number": "1.1.0",
+  "website_url": "",
+  "description": "A mod for Lethal Company that changes the SFX of the Hoarding Bug, to Bender from Futurama.",
   "dependencies": [
-    
+    "BepInEx-BepInExPack_H3VR-5.4.1101"
   ]
 }
