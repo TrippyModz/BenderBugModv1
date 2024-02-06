@@ -1,9 +1,9 @@
 {
-  "name": "Trippy.BHBMod",
+  "name": "BHBMod",
   "version_number": "1.1.0",
   "website_url": "",
   "description": "A mod for Lethal Company that changes the SFX of the Hoarding Bug, to Bender from Futurama.",
   "dependencies": [
-    "BepInEx-BepInExPack_H3VR-5.4.1101"
+    "BepInEx-BepInExPack-5.4.2100"
   ]
 }
